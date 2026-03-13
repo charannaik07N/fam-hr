@@ -5,3 +5,4 @@
 [2026-03-11T11:35:08.978Z] normalize line endings to LF
 [2026-03-11T16:54:30.615Z] remove polyfills no longer needed
 [2026-03-12T11:23:59.484Z] extract common utilities into shared helper
+[2026-03-13T14:42:55.971Z] reduce bundle size by tree-shaking unused imports
