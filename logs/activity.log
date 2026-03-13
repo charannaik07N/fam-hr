@@ -7,3 +7,4 @@
 [2026-03-12T11:23:59.484Z] extract common utilities into shared helper
 [2026-03-13T14:42:55.971Z] reduce bundle size by tree-shaking unused imports
 [2026-03-13T15:06:15.503Z] add export functionality for reports
+[2026-03-13T16:10:06.588Z] replace callback pattern with async/await
