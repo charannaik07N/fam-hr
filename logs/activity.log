@@ -12,3 +12,4 @@
 [2026-03-14T15:54:08.142Z] add retry mechanism with exponential backoff
 [2026-03-15T07:18:11.198Z] simplify nested conditional blocks
 [2026-03-15T15:37:14.766Z] support CSV and JSON export formats
+[2026-03-15T15:59:33.233Z] add troubleshooting section to docs
