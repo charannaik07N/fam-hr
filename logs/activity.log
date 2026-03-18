@@ -7,3 +7,4 @@
 [2026-03-18T10:14:44.633Z] add edge case tests for boundary values
 [2026-03-18T12:43:52.386Z] remove unused packages from package.json
 [2026-03-18T14:18:27.032Z] prevent duplicate entries in cache
+[2026-03-18T14:53:57.443Z] update changelog for v2.1 release
