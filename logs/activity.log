@@ -11,3 +11,4 @@
 [2026-03-19T04:19:00.604Z] mock external service calls in test suite
 [2026-03-19T11:27:42.160Z] simplify auth middleware chain
 [2026-03-19T11:43:57.176Z] handle missing env variable gracefully
+[2026-03-19T12:00:16.897Z] add response compression middleware
