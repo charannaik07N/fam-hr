@@ -14,3 +14,4 @@
 [2026-03-19T12:00:16.897Z] add response compression middleware
 [2026-03-19T13:13:11.449Z] fix import ordering to match project convention
 [2026-03-19T13:38:08.596Z] add snapshot tests for response formats
+[2026-03-19T13:48:02.623Z] update lock file after dependency audit
