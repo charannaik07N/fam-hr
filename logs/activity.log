@@ -12,3 +12,4 @@
 [2026-03-19T11:27:42.160Z] simplify auth middleware chain
 [2026-03-19T11:43:57.176Z] handle missing env variable gracefully
 [2026-03-19T12:00:16.897Z] add response compression middleware
+[2026-03-19T13:13:11.449Z] fix import ordering to match project convention
