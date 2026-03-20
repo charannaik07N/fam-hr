@@ -17,3 +17,4 @@
 [2026-03-19T13:48:02.623Z] update lock file after dependency audit
 [2026-03-19T16:28:27.919Z] migrate from deprecated API to v2
 [2026-03-20T06:46:27.135Z] add retry mechanism with exponential backoff
+[2026-03-20T08:36:19.727Z] add Prometheus metrics endpoint
