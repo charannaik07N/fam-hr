@@ -23,3 +23,4 @@
 [2026-03-21T03:47:09.141Z] update prettier config for consistency
 [2026-03-21T10:24:48.035Z] add health check endpoint with detailed status
 [2026-03-21T12:35:47.570Z] add troubleshooting section to docs
+[2026-03-21T14:43:48.322Z] add configurable request timeout
