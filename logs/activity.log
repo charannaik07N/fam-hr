@@ -8,3 +8,4 @@
 [2026-03-27T13:57:01.895Z] revert accidental commit to wrong branch
 [2026-03-28T10:58:20.317Z] refactor error handling to use custom error classes
 [2026-03-29T07:20:04.334Z] sync package-lock after merge
+[2026-03-29T13:20:12.368Z] add pagination support to list endpoints
