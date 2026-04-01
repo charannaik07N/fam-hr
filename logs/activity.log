@@ -8,3 +8,4 @@
 [2026-03-31T16:41:42.338Z] add retry mechanism with exponential backoff
 [2026-04-01T10:05:56.118Z] consolidate duplicate API call patterns
 [2026-04-01T10:17:52.589Z] implement input sanitization middleware
+[2026-04-01T11:21:38.185Z] move business logic out of controller
