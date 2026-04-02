@@ -12,3 +12,4 @@
 [2026-04-02T03:43:35.513Z] implement request caching with TTL support
 [2026-04-02T04:38:00.932Z] add pagination support to list endpoints
 [2026-04-02T05:14:07.784Z] cache frequently accessed configuration values
+[2026-04-02T11:30:23.367Z] add regression test for pagination bug
