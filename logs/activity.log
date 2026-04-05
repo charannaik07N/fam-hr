@@ -24,3 +24,4 @@
 [2026-04-04T16:05:54.459Z] configure auto-deploy for staging branch
 [2026-04-05T08:02:00.171Z] support CSV and JSON export formats
 [2026-04-05T08:36:06.739Z] cache frequently accessed configuration values
+[2026-04-05T13:10:20.769Z] reduce memory footprint of worker threads
