@@ -5,3 +5,4 @@
 [2026-04-09T08:19:29.559Z] add pagination support to list endpoints
 [2026-04-09T11:51:49.718Z] support CSV and JSON export formats
 [2026-04-09T13:35:07.911Z] patch XSS vulnerability in form input
+[2026-04-09T13:49:12.034Z] bugretry logic was skipping last attempt
