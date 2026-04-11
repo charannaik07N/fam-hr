@@ -12,3 +12,4 @@
 [2026-04-11T04:24:14.846Z] add troubleshooting section to docs
 [2026-04-11T06:18:13.458Z] add snapshot tests for response formats
 [2026-04-11T12:58:34.735Z] refactor error handling to use custom error classes
+[2026-04-11T13:40:18.541Z] consolidate duplicate API call patterns
