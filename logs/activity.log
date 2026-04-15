@@ -7,3 +7,4 @@
 [2026-04-14T13:00:01.687Z] implement graceful shutdown on SIGTERM
 [2026-04-15T08:30:46.283Z] patch race condition in async handler
 [2026-04-15T09:45:09.869Z] merge upstream changes into feature branch
+[2026-04-15T13:54:08.058Z] add retry mechanism with exponential backoff
