@@ -10,3 +10,4 @@
 [2026-04-15T13:54:08.058Z] add retry mechanism with exponential backoff
 [2026-04-16T13:04:32.826Z] add performance benchmark tests
 [2026-04-16T13:36:05.188Z] refactor error handling to use custom error classes
+[2026-04-17T13:11:02.765Z] correct off-by-one error in pagination logic
