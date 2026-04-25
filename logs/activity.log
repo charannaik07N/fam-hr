@@ -5,3 +5,4 @@
 [2026-04-23T06:20:16.457Z] add webhook notification support
 [2026-04-24T13:16:36.221Z] update ESLint config with stricter rules
 [2026-04-24T16:05:23.032Z] fix incorrect status code for validation errors
+[2026-04-25T09:13:29.134Z] update GitHub Actions workflow to Node 20
