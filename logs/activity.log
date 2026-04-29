@@ -1,3 +1,4 @@
 [2026-04-27T11:09:00.284Z] update GitHub Actions workflow to Node 20
 [2026-04-28T12:15:45.779Z] update nginx reverse proxy configuration
 [2026-04-28T15:52:15.405Z] simplify auth middleware chain
+[2026-04-29T11:20:35.756Z] add snapshot tests for response formats
