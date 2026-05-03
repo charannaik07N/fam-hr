@@ -12,3 +12,4 @@
 [2026-05-01T14:50:50.988Z] update lock file after dependency audit
 [2026-05-02T06:29:44.867Z] add unit tests for input validation
 [2026-05-02T13:09:04.638Z] split build and test stages for faster feedback
+[2026-05-03T07:28:30.509Z] add fallback for browsers without WebSocket support
