@@ -6,3 +6,4 @@
 [2026-05-05T11:54:37.321Z] wip: save progress on feature branch
 [2026-05-06T05:47:01.673Z] fix incorrect timestamp parsing for UTC dates
 [2026-05-06T10:50:57.112Z] update error messages to be more user-friendly
+[2026-05-06T12:07:34.784Z] add lint check to pre-commit hook
