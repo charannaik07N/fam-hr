@@ -8,3 +8,4 @@
 [2026-05-06T10:50:57.112Z] update error messages to be more user-friendly
 [2026-05-06T12:07:34.784Z] add lint check to pre-commit hook
 [2026-05-06T14:33:03.707Z] reorganize file structure for better discoverability
+[2026-05-07T08:32:44.722Z] configure log rotation for production
