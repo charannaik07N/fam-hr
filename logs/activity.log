@@ -14,3 +14,4 @@
 [2026-05-07T10:10:19.533Z] patch race condition in async handler
 [2026-05-08T10:31:30.502Z] replace callback pattern with async/await
 [2026-05-09T05:43:42.962Z] sync package-lock after merge
+[2026-05-09T06:10:27.355Z] fix memory leak in event listener cleanup
