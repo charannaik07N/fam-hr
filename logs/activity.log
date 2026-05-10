@@ -19,3 +19,4 @@
 [2026-05-09T09:47:08.111Z] decouple logging from business logic
 [2026-05-10T09:38:14.563Z] fix typo in inline documentation
 [2026-05-10T10:32:58.634Z] update error messages to be more user-friendly
+[2026-05-10T13:07:34.011Z] fix import ordering to match project convention
