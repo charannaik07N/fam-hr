@@ -3,3 +3,4 @@
 [2026-05-11T14:22:45.006Z] resolve null pointer in user validation
 [2026-05-11T14:33:09.878Z] implement input sanitization middleware
 [2026-05-12T10:41:07.022Z] support CSV and JSON export formats
+[2026-05-12T12:42:39.266Z] archive legacy migration scripts
