@@ -7,3 +7,4 @@
 [2026-05-13T10:36:02.797Z] split build and test stages for faster feedback
 [2026-05-13T15:28:15.549Z] improve error code reference table
 [2026-05-13T15:38:25.953Z] update lock file after dependency audit
+[2026-05-13T15:48:52.142Z] fix typo in inline documentation
