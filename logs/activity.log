@@ -9,3 +9,4 @@
 [2026-05-13T15:38:25.953Z] update lock file after dependency audit
 [2026-05-13T15:48:52.142Z] fix typo in inline documentation
 [2026-05-13T16:38:32.039Z] move business logic out of controller
+[2026-05-14T04:06:21.434Z] fix test data setup for isolated test runs
