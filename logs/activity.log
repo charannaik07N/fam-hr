@@ -15,3 +15,4 @@
 [2026-05-14T13:21:57.815Z] fix flaky build caused by parallel test collision
 [2026-05-14T15:31:18.544Z] add support for batch processing
 [2026-05-15T07:28:21.437Z] bump Node.js version to LTS release
+[2026-05-15T07:37:52.057Z] fix incorrect timestamp parsing for UTC dates
