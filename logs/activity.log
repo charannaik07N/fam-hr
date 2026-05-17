@@ -22,3 +22,4 @@
 [2026-05-16T07:27:12.610Z] add environment-specific config files
 [2026-05-16T09:50:56.874Z] wip: save progress on feature branch
 [2026-05-17T10:39:19.676Z] optimize JSON serialization for large payloads
+[2026-05-17T14:47:58.667Z] refactor config loading to support multiple envs
