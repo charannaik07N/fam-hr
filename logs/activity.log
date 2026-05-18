@@ -1,1 +1,2 @@
 [2026-05-18T04:34:35.475Z] refactor database queries to use query builder
+[2026-05-18T13:47:39.864Z] simplify auth middleware chain
