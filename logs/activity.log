@@ -7,3 +7,4 @@
 [2026-05-19T13:31:37.259Z] add support for batch processing
 [2026-05-20T07:57:35.106Z] add lint check to pre-commit hook
 [2026-05-20T10:41:03.081Z] add export functionality for reports
+[2026-05-20T16:27:31.603Z] resolve infinite loop in recursive parser
