@@ -13,3 +13,4 @@
 [2026-05-22T10:42:05.930Z] add support for batch processing
 [2026-05-22T14:09:38.131Z] patch XSS vulnerability in form input
 [2026-05-22T15:52:07.802Z] resolve flaky timeout in database connection
+[2026-05-23T10:57:50.186Z] add fallback for browsers without WebSocket support
