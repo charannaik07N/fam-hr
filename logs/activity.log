@@ -4,3 +4,4 @@
 [2026-05-27T09:26:20.732Z] add tests for rate limiter logic
 [2026-05-27T10:51:12.314Z] document environment variable configuration
 [2026-05-28T14:13:22.933Z] refactor error handling to use custom error classes
+[2026-05-29T12:10:31.319Z] extract magic numbers into named constants
