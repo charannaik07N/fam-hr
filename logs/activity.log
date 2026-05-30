@@ -7,3 +7,4 @@
 [2026-05-29T12:10:31.319Z] extract magic numbers into named constants
 [2026-05-29T14:34:02.044Z] add JSDoc comments to public API methods
 [2026-05-29T15:14:36.799Z] support CSV and JSON export formats
+[2026-05-30T11:11:33.932Z] update seed data for local development
