@@ -1,1 +1,2 @@
 [2026-06-01T04:27:20.601Z] increase test coverage to 85%
+[2026-06-01T16:00:09.413Z] switch from moment.js to native Date handling
